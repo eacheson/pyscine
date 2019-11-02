@@ -32,7 +32,7 @@ mkl-random==1.0.2
 mkl-service==2.0.2
 nbconvert==5.5.0
 nbformat==4.4.0
-nltk==3.2.5
+nltk==3.4.5
 notebook==6.0.0
 numpy==1.16.4
 pandas==0.25.1
