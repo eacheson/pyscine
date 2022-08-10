@@ -30,7 +30,7 @@ mistune==2.0.3
 mkl-fft==1.0.14
 mkl-random==1.0.2
 mkl-service==2.0.2
-nbconvert==5.5.0
+nbconvert==6.3.0
 nbformat==4.4.0
 nltk==3.2.5
 notebook==6.4.12
