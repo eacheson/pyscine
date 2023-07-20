@@ -43,7 +43,7 @@ pickleshare==0.7.5
 prometheus-client==0.7.1
 prompt-toolkit==2.0.9
 pycryptodome==3.9.0
-Pygments==2.7.4
+Pygments==2.15.0
 pyparsing==2.4.2
 pyrsistent==0.14.11
 python-dateutil==2.8.0
